@@ -45,3 +45,9 @@ p {
     font-size: 12px;
     text-align: left;
 }
+
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
